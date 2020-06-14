@@ -2,3 +2,10 @@
 
 console.log('Here\'s a hidden message');
 
+// This is a single-line comment.
+
+/* Here's a
+multi-line
+comment. */
+
+// console.log('This code is no longer active')
